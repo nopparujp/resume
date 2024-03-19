@@ -61,6 +61,7 @@
 \usepackage{geometry} % Required for adjusting page dimensions and margins
 
 \geometry{
+	letterpaper,
 	top=0.6in, % Top margin
 	bottom=0.6in, % Bottom margin
 	left=0.75in, % Left margin
